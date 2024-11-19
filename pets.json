@@ -1,219 +1,38 @@
 [
   {
     "id": 1,
-    "name": "Dog Food - Chicken & Rice",
-    "status": "available",
-    "photoUrls": ["https://example.com/photos/dog_food1.jpg"],
-    "description": "High-quality dog food made with chicken and rice, perfect for adult dogs."
+    "name": "Dog Food Premium",
+    "status": "Available",
+    "photoUrl": "https://example.com/photos/dog_food_1.jpg",
+    "description": "High-quality food for dogs with all the essential nutrients."
   },
   {
     "id": 2,
-    "name": "Cat Litter - Clumping",
-    "status": "available",
-    "photoUrls": ["https://example.com/photos/cat_litter1.jpg"],
-    "description": "Clumping cat litter that absorbs odors and is easy to clean."
+    "name": "Cat Toy",
+    "status": "Available",
+    "photoUrl": "https://example.com/photos/cat_toy_1.jpg",
+    "description": "Interactive toy for cats to keep them engaged."
   },
   {
     "id": 3,
-    "name": "Fish Tank Filter",
-    "status": "available",
-    "photoUrls": ["https://example.com/photos/fish_tank_filter.jpg"],
-    "description": "Efficient fish tank filter that helps maintain clean and healthy water."
+    "name": "Bird Cage",
+    "status": "Out of stock",
+    "photoUrl": "https://example.com/photos/bird_cage_1.jpg",
+    "description": "Spacious cage for birds with easy-to-clean features."
   },
   {
     "id": 4,
-    "name": "Dog Toy - Chew Bone",
-    "status": "available",
-    "photoUrls": ["https://example.com/photos/dog_toy1.jpg"],
-    "description": "Durable chew bone for dogs, designed to help with dental hygiene."
+    "name": "Dog Leash",
+    "status": "Available",
+    "photoUrl": "https://example.com/photos/dog_leash_1.jpg",
+    "description": "Durable leash for walking your dog safely."
   },
   {
     "id": 5,
-    "name": "Cat Scratching Post",
-    "status": "available",
-    "photoUrls": ["https://example.com/photos/cat_scratching_post.jpg"],
-    "description": "Tall scratching post for cats to keep their claws sharp and healthy."
-  },
-  {
-    "id": 6,
-    "name": "Hamster Cage - 2 Levels",
-    "status": "available",
-    "photoUrls": ["https://example.com/photos/hamster_cage.jpg"],
-    "description": "Spacious 2-level hamster cage with accessories for your pet's comfort."
-  },
-  {
-    "id": 7,
-    "name": "Bird Cage - Large",
-    "status": "available",
-    "photoUrls": ["https://example.com/photos/bird_cage_large.jpg"],
-    "description": "Large bird cage with ample space for your feathered friends to move around."
-  },
-  {
-    "id": 8,
-    "name": "Fish Tank Decoration - Castle",
-    "status": "available",
-    "photoUrls": ["https://example.com/photos/fish_tank_castle.jpg"],
-    "description": "A beautiful castle decoration for your fish tank."
-  },
-  {
-    "id": 9,
-    "name": "Dog Collar - Leather",
-    "status": "available",
-    "photoUrls": ["https://example.com/photos/dog_collar.jpg"],
-    "description": "Stylish leather dog collar with adjustable size."
-  },
-  {
-    "id": 10,
-    "name": "Cat Toy - Feather Wand",
-    "status": "available",
-    "photoUrls": ["https://example.com/photos/cat_toy1.jpg"],
-    "description": "Interactive feather wand toy for cats to encourage play and exercise."
-  },
-  {
-    "id": 11,
-    "name": "Dog Food - Salmon & Sweet Potato",
-    "status": "available",
-    "photoUrls": ["https://example.com/photos/dog_food2.jpg"],
-    "description": "Healthy dog food made with salmon and sweet potato, ideal for sensitive stomachs."
-  },
-  {
-    "id": 12,
-    "name": "Cat Food - Tuna Flavored",
-    "status": "available",
-    "photoUrls": ["https://example.com/photos/cat_food2.jpg"],
-    "description": "Delicious tuna-flavored cat food for adult cats."
-  },
-  {
-    "id": 13,
-    "name": "Small Pet Bedding - Aspen",
-    "status": "available",
-    "photoUrls": ["https://example.com/photos/small_pet_bedding.jpg"],
-    "description": "Comfortable aspen bedding for small pets like hamsters and guinea pigs."
-  },
-  {
-    "id": 14,
-    "name": "Dog Leash - Nylon",
-    "status": "available",
-    "photoUrls": ["https://example.com/photos/dog_leash.jpg"],
-    "description": "Durable nylon dog leash, ideal for daily walks."
-  },
-  {
-    "id": 15,
-    "name": "Cat Food - Chicken & Tuna",
-    "status": "available",
-    "photoUrls": ["https://example.com/photos/cat_food3.jpg"],
-    "description": "Mixed flavor cat food with chicken and tuna, perfect for finicky eaters."
-  },
-  {
-    "id": 16,
-    "name": "Dog Bed - Orthopedic",
-    "status": "available",
-    "photoUrls": ["https://example.com/photos/dog_bed_orthopedic.jpg"],
-    "description": "Comfortable orthopedic dog bed for better sleep and joint support."
-  },
-  {
-    "id": 17,
-    "name": "Pet Shampoo - Aloe Vera",
-    "status": "available",
-    "photoUrls": ["https://example.com/photos/pet_shampoo.jpg"],
-    "description": "Gentle pet shampoo with aloe vera to soothe the skin."
-  },
-  {
-    "id": 18,
-    "name": "Fish Food - Flake",
-    "status": "available",
-    "photoUrls": ["https://example.com/photos/fish_food_flake.jpg"],
-    "description": "Nutrient-rich flake food for a variety of fish species."
-  },
-  {
-    "id": 19,
-    "name": "Dog Jacket - Waterproof",
-    "status": "available",
-    "photoUrls": ["https://example.com/photos/dog_jacket.jpg"],
-    "description": "Waterproof dog jacket to keep your pet dry and warm in rainy weather."
-  },
-  {
-    "id": 20,
-    "name": "Cat Food - Salmon & Rice",
-    "status": "available",
-    "photoUrls": ["https://example.com/photos/cat_food4.jpg"],
-    "description": "Salmon and rice cat food, perfect for sensitive stomachs."
-  },
-  {
-    "id": 21,
-    "name": "Rabbit Hut - Wooden",
-    "status": "available",
-    "photoUrls": ["https://example.com/photos/rabbit_hut.jpg"],
-    "description": "Cozy wooden hut for rabbits to sleep and relax."
-  },
-  {
-    "id": 22,
-    "name": "Dog Toy - Rope",
-    "status": "available",
-    "photoUrls": ["https://example.com/photos/dog_toy_rope.jpg"],
-    "description": "Strong rope toy for dogs, great for tug-of-war."
-  },
-  {
-    "id": 23,
-    "name": "Catnip Spray",
-    "status": "available",
-    "photoUrls": ["https://example.com/photos/catnip_spray.jpg"],
-    "description": "Catnip spray to stimulate playfulness in cats."
-  },
-  {
-    "id": 24,
-    "name": "Pet Carrier - Soft",
-    "status": "available",
-    "photoUrls": ["https://example.com/photos/pet_carrier.jpg"],
-    "description": "Soft-sided pet carrier for safe and comfortable travel."
-  },
-  {
-    "id": 25,
-    "name": "Fish Tank Heater",
-    "status": "available",
-    "photoUrls": ["https://example.com/photos/fish_tank_heater.jpg"],
-    "description": "Reliable heater to maintain the ideal water temperature in your fish tank."
-  },
-  {
-    "id": 26,
-    "name": "Dog Food - Beef & Barley",
-    "status": "available",
-    "photoUrls": ["https://example.com/photos/dog_food3.jpg"],
-    "description": "Nutritious dog food with beef and barley, suitable for all life stages."
-  },
-  {
-    "id": 27,
-    "name": "Bird Food - Seed Mix",
-    "status": "available",
-    "photoUrls": ["https://example.com/photos/bird_food.jpg"],
-    "description": "Healthy seed mix for a variety of bird species."
-  },
-  {
-    "id": 28,
-    "name": "Dog Poop Bags",
-    "status": "available",
-    "photoUrls": ["https://example.com/photos/dog_poop_bags.jpg"],
-    "description": "Eco-friendly dog poop bags for easy cleanup during walks."
-  },
-  {
-    "id": 29,
-    "name": "Hamster Food - Mixed Grains",
-    "status": "available",
-    "photoUrls": ["https://example.com/photos/hamster_food.jpg"],
-    "description": "Mixed grains hamster food with essential nutrients for a healthy diet."
-  },
-  {
-    "id": 30,
-    "name": "Dog Food - Lamb & Rice",
-    "status": "available",
-    "photoUrls": ["https://example.com/photos/dog_food4.jpg"],
-    "description": "Lamb and rice formula dog food, ideal for pets with food sensitivities."
-  },
-  {
-    "id": 31,
-    "name": "Pet Water Fountain",
-    "status": "available",
-    "photoUrls": ["https://example.com/photos/pet_water_fountain.jpg"],
-    "description": "Automatic water fountain to keep your pet hydrated."
+    "name": "Fish Tank",
+    "status": "Available",
+    "photoUrl": "https://example.com/photos/fish_tank_1.jpg",
+    "description": "A 50-gallon aquarium perfect for small fish."
   }
 ]
+
