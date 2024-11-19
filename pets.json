@@ -6,7 +6,6 @@
     "photoUrl": "https://example.com/photos/dog_food_1.jpg",
     "description": "Высококачественный корм для собак, содержащий все необходимые питательные вещества.",
     "price": 499.99,
-    "favorite": false
   },
   {
     "id": 2,
@@ -15,7 +14,6 @@
     "photoUrl": "https://example.com/photos/cat_toy_1.jpg",
     "description": "Интерактивная игрушка для кошек, чтобы они оставались активными и развлекались.",
     "price": 299.99,
-    "favorite": false
   },
   {
     "id": 3,
