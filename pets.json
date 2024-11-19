@@ -12,27 +12,7 @@
     "status": "Available",
     "photoUrl": "https://example.com/photos/cat_toy_1.jpg",
     "description": "Interactive toy for cats to keep them engaged."
-  },
-  {
-    "id": 3,
-    "name": "Bird Cage",
-    "status": "Out of stock",
-    "photoUrl": "https://example.com/photos/bird_cage_1.jpg",
-    "description": "Spacious cage for birds with easy-to-clean features."
-  },
-  {
-    "id": 4,
-    "name": "Dog Leash",
-    "status": "Available",
-    "photoUrl": "https://example.com/photos/dog_leash_1.jpg",
-    "description": "Durable leash for walking your dog safely."
-  },
-  {
-    "id": 5,
-    "name": "Fish Tank",
-    "status": "Available",
-    "photoUrl": "https://example.com/photos/fish_tank_1.jpg",
-    "description": "A 50-gallon aquarium perfect for small fish."
   }
 ]
+
 
