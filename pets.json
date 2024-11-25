@@ -3,7 +3,7 @@
     "id": 1,
     "name": "Корм для собак Premium",
     "status": "В наличии",
-    "photoUrl": "https://example.com/photos/dog_food_1.jpg",
+    "photoUrl": "https://zoosfera-nn.ru/images/detailed/673/4f3f580b5f1611eb80f400155d331805_4278d403de5d11eb80fa00155d331805.jpg",
     "description": "Высококачественный корм для собак, содержащий все необходимые питательные вещества.",
     "price": "499.99"
   },
@@ -11,7 +11,7 @@
     "id": 2,
     "name": "Игрушка для кошек",
     "status": "В наличии",
-    "photoUrl": "https://example.com/photos/cat_toy_1.jpg",
+    "photoUrl": "https://express-china.ru/upload/iblock/3d7/3d790511923c2fbfbbb5ce11e53576a0.jpg",
     "description": "Интерактивная игрушка для кошек, чтобы они оставались активными и развлекались.",
     "price": "299.99"
   },
@@ -19,7 +19,7 @@
     "id": 3,
     "name": "Лежанка для собак",
     "status": "В наличии",
-    "photoUrl": "https://example.com/photos/dog_bed_1.jpg",
+    "photoUrl": "https://cdn1.ozone.ru/s3/multimedia-1-5/6950472881.jpg",
     "description": "Уютная лежанка для собак, с мягким наполнителем для комфортного сна.",
     "price": "499.99"
   },
@@ -27,7 +27,7 @@
     "id": 4,
     "name": "Аквариум для рыб",
     "status": "В наличии",
-    "photoUrl": "https://example.com/photos/fish_tank_1.jpg",
+    "photoUrl": "https://static.onlinetrade.ru/img/items/m/akvarium_tetra_aquaart_30l_led_goldfish_989595_2.jpg",
     "description": "Прозрачный аквариум для рыб с системой фильтрации и подсветкой.",
     "price": "499.99"
   },
@@ -35,7 +35,7 @@
     "id": 5,
     "name": "Гуляш для собак",
     "status": "В наличии",
-    "photoUrl": "https://example.com/photos/dog_food_2.jpg",
+    "photoUrl": "https://tomlad.ru/images/detailed/550/426072.jpg",
     "description": "Сбалансированное питание для собак с мясом и овощами.",
     "price": "499.99"
   },
@@ -43,7 +43,7 @@
     "id": 6,
     "name": "Когтеточка для кошек",
     "status": "В наличии",
-    "photoUrl": "https://example.com/photos/cat_scratcher_1.jpg",
+    "photoUrl": "https://pushok-spb.ru/uploads/products/450/1543779775_31339663.jpg",
     "description": "Когтеточка для кошек из натурального дерева, предотвращает повреждение мебели.",
     "price": "499.99"
   },
@@ -51,7 +51,7 @@
     "id": 7,
     "name": "Игрушка для собак",
     "status": "В наличии",
-    "photoUrl": "https://example.com/photos/dog_toy_1.jpg",
+    "photoUrl": "https://www.magazindoberman.ru/spree/products/000/019/726/original/petstages_igrushka.jpeg?1450884107",
     "description": "Прочная игрушка для собак, помогает снимать стресс и развлекать питомца.",
     "price": "499.99"
   },
@@ -59,7 +59,7 @@
     "id": 8,
     "name": "Наполнитель для кошачьего туалета",
     "status": "В наличии",
-    "photoUrl": "https://example.com/photos/cat_litter_1.jpg",
+    "photoUrl": "https://cdn1.ozone.ru/s3/multimedia-3/6201112203.jpg",
     "description": "Экологичный наполнитель для кошачьего туалета, поглощает запахи и влагоотведение.",
     "price": "499.99"
   },
@@ -67,15 +67,15 @@
     "id": 9,
     "name": "Форма для собак",
     "status": "В наличии",
-    "photoUrl": "https://example.com/photos/dog_form_1.jpg",
-    "description": "Здоровая форма для собак, которая помогает поддерживать физическую активность.",
+    "photoUrl": "https://i.pinimg.com/originals/a8/45/0e/a8450ed1373a60c088305f4a2cda2b65.jpg",
+    "description": "Красивая форма для собак, которая помогает поддерживать физическую активность.",
     "price": "499.99"
   },
   {
     "id": 10,
     "name": "Миски для собак",
     "status": "В наличии",
-    "photoUrl": "https://example.com/photos/dog_bowl_1.jpg",
+    "photoUrl": "https://cdn1.ozone.ru/multimedia/1037005983.jpg",
     "description": "Набор из двух мисок для собак, устойчивые к переворачиванию.",
     "price": "499.99"
   },
@@ -83,7 +83,7 @@
     "id": 11,
     "name": "Игрушка для попугаев",
     "status": "В наличии",
-    "photoUrl": "https://example.com/photos/parrot_toy_1.jpg",
+    "photoUrl": "https://cdn1.ozone.ru/s3/multimedia-t/6743679041.jpg",
     "description": "Яркая игрушка для попугаев, помогает поддерживать активность и развлечение.",
     "price": "499.99"
   },
@@ -91,7 +91,7 @@
     "id": 12,
     "name": "Корм для попугаев",
     "status": "В наличии",
-    "photoUrl": "https://example.com/photos/parrot_food_1.jpg",
+    "photoUrl": "https://avatars.mds.yandex.net/get-mpic/4901324/img_id8360109825654438737.jpeg/orig",
     "description": "Сбалансированный корм для попугаев с добавлением витаминов и минералов.",
     "price": "499.99"
   },
@@ -99,7 +99,7 @@
     "id": 13,
     "name": "Шлейка для кошек",
     "status": "В наличии",
-    "photoUrl": "https://example.com/photos/cat_harness_1.jpg",
+    "photoUrl": "https://avatars.mds.yandex.net/get-mpic/3986581/img_id7087537980828113355.jpeg/orig",
     "description": "Мягкая и удобная шлейка для кошек, идеально подходит для прогулок на свежем воздухе.",
     "price": "499.99"
   },
@@ -107,7 +107,7 @@
     "id": 14,
     "name": "Туалет для кошек",
     "status": "В наличии",
-    "photoUrl": "https://example.com/photos/cat_litter_box_1.jpg",
+    "photoUrl": "https://cdn1.ozone.ru/s3/multimedia-7/6842441599.jpg",
     "description": "Удобный туалет для кошек с фильтрами для устранения запахов.",
     "price": "499.99"
   },
@@ -115,7 +115,7 @@
     "id": 15,
     "name": "Тренировочная игрушка для собак",
     "status": "В наличии",
-    "photoUrl": "https://example.com/photos/dog_training_toy_1.jpg",
+    "photoUrl": "https://biogrand-samara.ru/assets/images/resources/48674/4be5c277-0cbc-11ec-a0d4-ac1f6b0ea37e-4be5c278-0cbc-11ec-a0d4-ac1f6b0ea37e.jpg",
     "description": "Игрушка для собак, помогает в тренировках и обучении команды.",
     "price": "499.99"
   },
@@ -123,7 +123,7 @@
     "id": 16,
     "name": "Собачья одежда",
     "status": "В наличии",
-    "photoUrl": "https://example.com/photos/dog_clothing_1.jpg",
+    "photoUrl": "https://cdn1.ozone.ru/multimedia/1014706227.jpg",
     "description": "Модная одежда для собак, обеспечивающая тепло и комфорт в холодную погоду.",
     "price": "499.99"
   },
@@ -131,7 +131,7 @@
     "id": 17,
     "name": "Игрушка для грызунов",
     "status": "В наличии",
-    "photoUrl": "https://example.com/photos/rodent_toy_1.jpg",
+    "photoUrl": "https://petscage.ru/wa-data/public/shop/products/20/10/21020/images/93704/93704.970.jpg",
     "description": "Игрушка для грызунов, стимулирующая их умственную активность.",
     "price": "499.99"
   },
@@ -139,7 +139,7 @@
     "id": 18,
     "name": "Аквариумный фильтр",
     "status": "В наличии",
-    "photoUrl": "https://example.com/photos/fish_filter_1.jpg",
+    "photoUrl": "https://avatars.mds.yandex.net/i?id=da3963672b21abadb26fb2c53f3f38efc3f7c110-4926719-images-thumbs&n=13",
     "description": "Эффективный фильтр для аквариумов, обеспечивающий чистоту воды.",
     "price": "499.99"
   },
@@ -147,7 +147,7 @@
     "id": 19,
     "name": "Гамак для кошек",
     "status": "В наличии",
-    "photoUrl": "https://example.com/photos/cat_hammock_1.jpg",
+    "photoUrl": "https://cdn1.ozone.ru/s3/multimedia-3/c600/6198849603.jpg",
     "description": "Комфортный гамак для кошек, идеально подходит для отдыха и сна.",
     "price": "499.99"
   },
@@ -155,7 +155,7 @@
     "id": 20,
     "name": "Ласковый корм для кошек",
     "status": "В наличии",
-    "photoUrl": "https://example.com/photos/cat_food_2.jpg",
+    "photoUrl": "https://cdn1.ozone.ru/s3/multimedia-5/6376054313.jpg",
     "description": "Высококачественный корм для кошек с мясом и добавками для здоровья.",
     "price": "499.99"
   },
@@ -163,7 +163,7 @@
     "id": 21,
     "name": "Вакцина для животных",
     "status": "В наличии",
-    "photoUrl": "https://example.com/photos/vaccine_1.jpg",
+    "photoUrl": "https://zooput.ru/upload/iblock/cdd/cdd559016d7b503fae2cb2feb49d0bea.jpg",
     "description": "Вакцина для домашних животных для защиты от болезней.",
     "price": "499.99"
   },
@@ -171,7 +171,7 @@
     "id": 22,
     "name": "Сено для морских свинок",
     "status": "В наличии",
-    "photoUrl": "https://example.com/photos/guinea_pig_hay_1.jpg",
+    "photoUrl": "https://homkin.ru/wp-content/uploads/2018/09/100-e1535999740697.jpg",
     "description": "Чистое и свежое сено для морских свинок, важный элемент рациона.",
     "price": "499.99"
   },
@@ -179,7 +179,7 @@
     "id": 23,
     "name": "Игрушка для кроликов",
     "status": "В наличии",
-    "photoUrl": "https://example.com/photos/rabbit_toy_1.jpg",
+    "photoUrl": "https://i.pinimg.com/originals/e1/68/99/e1689907ef26678ad5214161035804ae.jpg",
     "description": "Натуральная игрушка для кроликов, помогает поддерживать активность.",
     "price": "499.99"
   },
@@ -187,7 +187,7 @@
     "id": 24,
     "name": "Стерилизатор для воды",
     "status": "В наличии",
-    "photoUrl": "https://example.com/photos/water_sterilizer_1.jpg",
+    "photoUrl": "https://santehmaster.ru/upload/iblock/7d7/t07erv1vw5yd95ewk644go6c2uznro8k.jpg",
     "description": "Стерилизатор для воды для животных, обеспечивает чистоту и безопасность питья.",
     "price": "499.99"
   },
@@ -195,7 +195,7 @@
     "id": 25,
     "name": "Спрей от блох для собак",
     "status": "В наличии",
-    "photoUrl": "https://example.com/photos/flea_spray_1.jpg",
+    "photoUrl": "https://cdn1.ozone.ru/s3/multimedia-n/6235523471.jpg",
     "description": "Эффективный спрей от блох для собак, быстро устраняет паразитов.",
     "price": "499.99"
   },
@@ -203,7 +203,7 @@
     "id": 26,
     "name": "Клетка для попугаев",
     "status": "В наличии",
-    "photoUrl": "https://example.com/photos/parrot_cage_1.jpg",
+    "photoUrl": "https://avatars.mds.yandex.net/i?id=860ef39694be95bc27fb99237abfddc9d3dcfae1-4593300-images-thumbs&n=13",
     "description": "Просторная клетка для попугаев с множеством полок и игрушек.",
     "price": "499.99"
   },
@@ -211,7 +211,7 @@
     "id": 27,
     "name": "Лакомства для собак",
     "status": "В наличии",
-    "photoUrl": "https://example.com/photos/dog_treats_1.jpg",
+    "photoUrl": "https://cdn1.ozone.ru/s3/multimedia-i/6340955514.jpg",
     "description": "Вкусные лакомства для собак, подходящие для тренировок и поощрений.",
     "price": "499.99"
   },
@@ -219,7 +219,7 @@
     "id": 29,
     "name": "Шарик для кошек",
     "status": "В наличии",
-    "photoUrl": "https://example.com/photos/cat_ball_1.jpg",
+    "photoUrl": "https://cdn1.ozone.ru/s3/multimedia-1-r/7051774347.jpg",
     "description": "Яркий и легкий шарик для кошек, стимулирует их к активным играм.",
     "price": "499.99"
   },
@@ -227,7 +227,7 @@
     "id": 30,
     "name": "Гавкающая игрушка для собак",
     "status": "В наличии",
-    "photoUrl": "https://example.com/photos/dog_barking_toy_1.jpg",
+    "photoUrl": "https://avatars.mds.yandex.net/i?id=425c57f386167b71a322505f5e75ca74_l-5231317-images-thumbs&n=13",
     "description": "Игрушка для собак, которая издает звуки при нажатии, стимулирует активность.",
     "price": "499.99"
   },
@@ -235,7 +235,7 @@
     "id": 31,
     "name": "Пелёнки для собак",
     "status": "В наличии",
-    "photoUrl": "https://example.com/photos/dog_pads_1.jpg",
+    "photoUrl": "https://avatars.mds.yandex.net/i?id=d7cd441afb562a7e7a200d6c00cea4a8996fef80fc3276e6-10143230-images-thumbs&n=13",
     "description": "Гигиенические пелёнки для собак, которые помогают сохранять чистоту в доме.",
     "price": "499.99"
   },
@@ -243,7 +243,7 @@
     "id": 32,
     "name": "Питательная добавка для кошек",
     "status": "В наличии",
-    "photoUrl": "https://example.com/photos/cat_supplement_1.jpg",
+    "photoUrl": "https://cdn1.ozone.ru/s3/multimedia-n/6309323651.jpg",
     "description": "Питательная добавка для кошек, поддерживающая их здоровье и иммунитет.",
     "price": "499.99"
   },
@@ -251,7 +251,7 @@
     "id": 33,
     "name": "Аквариумный декор",
     "status": "В наличии",
-    "photoUrl": "https://example.com/photos/fish_decoration_1.jpg",
+    "photoUrl": "https://www.aquaworks.ru/images/akvarium-zatonuvshij-gorod.jpg",
     "description": "Красивый декор для аквариума, который создаст уютную атмосферу для рыб.",
     "price": "499.99"
   },
@@ -259,7 +259,7 @@
     "id": 34,
     "name": "Шар для грызунов",
     "status": "В наличии",
-    "photoUrl": "https://example.com/photos/rodent_ball_1.jpg",
+    "photoUrl": "https://avatars.mds.yandex.net/i?id=6ccf221df9658d86f1ba19a068fb7a5fd07968f2-10401675-images-thumbs&n=13",
     "description": "Игрушка для грызунов в виде шара, помогает им оставаться активными.",
     "price": "499.99"
   },
@@ -267,7 +267,7 @@
     "id": 35,
     "name": "Песочный наполнитель для кошек",
     "status": "В наличии",
-    "photoUrl": "https://example.com/photos/cat_sand_1.jpg",
+    "photoUrl": "https://cdn1.ozone.ru/s3/multimedia-3/6201112203.jpg",
     "description": "Наполнитель для кошачьего туалета, изготовленный из безопасного песка.",
     "price": "499.99"
   },
@@ -275,7 +275,7 @@
     "id": 36,
     "name": "Кормушка для птиц",
     "status": "В наличии",
-    "photoUrl": "https://example.com/photos/bird_feeder_1.jpg",
+    "photoUrl": "https://cdn.culture.ru/images/f0a15dd7-7ffe-5ffc-a9df-5ccadad607c8",
     "description": "Удобная кормушка для птиц с легким доступом к пище.",
     "price": "499.99"
   },
@@ -283,7 +283,7 @@
     "id": 37,
     "name": "Противопаразитарный ошейник для собак",
     "status": "В наличии",
-    "photoUrl": "https://example.com/photos/dog_flea_collar_1.jpg",
+    "photoUrl": "https://avatars.mds.yandex.net/i?id=8f60d44a5d998b5613a5a1494a9bb114_l-4825391-images-thumbs&n=13",
     "description": "Эффективный ошейник для защиты собак от блох и других паразитов.",
     "price": "499.99"
   },
@@ -291,7 +291,7 @@
     "id": 38,
     "name": "Палочки для грызунов",
     "status": "В наличии",
-    "photoUrl": "https://example.com/photos/rodent_sticks_1.jpg",
+    "photoUrl": "https://avatars.mds.yandex.net/get-mpic/4399709/img_id1535319641868315439.jpeg/orig",
     "description": "Вкусные палочки для грызунов, которые способствуют их жевательной активности.",
     "price": "499.99"
   },
@@ -299,7 +299,7 @@
     "id": 39,
     "name": "Ошейник для кошек",
     "status": "В наличии",
-    "photoUrl": "https://example.com/photos/cat_collar_1.jpg",
+    "photoUrl": "https://avatars.mds.yandex.net/i?id=69a78489f81508dd09f325fea6a5b396_l-10639647-images-thumbs&n=13",
     "description": "Мягкий и регулируемый ошейник для кошек с яркими аксессуарами.",
     "price": "499.99"
   },
@@ -307,15 +307,15 @@
     "id": 40,
     "name": "Форма для котов",
     "status": "В наличии",
-    "photoUrl": "https://example.com/photos/cat_form_1.jpg",
-    "description": "Удобная форма для котов, поддерживает здоровье суставов и активность.",
+    "photoUrl": "https://avatars.mds.yandex.net/i?id=af39ad3de7bf972abcd781da88784637_l-4377975-images-thumbs&n=13",
+    "description": "Красивая форма для котов, поддерживает здоровье суставов и активность.",
     "price": "499.99"
   },
   {
     "id": 41,
     "name": "Автокормушка для рыб",
     "status": "В наличии",
-    "photoUrl": "https://example.com/photos/fish_auto_feeder_1.jpg",
+    "photoUrl": "https://avatars.mds.yandex.net/i?id=fdc05f769e40c317b05abb696c7a94624af76831-10548602-images-thumbs&n=13",
     "description": "Автокормушка для рыб, которая автоматически подает корм в аквариум.",
     "price": "499.99"
   },
@@ -323,7 +323,7 @@
     "id": 42,
     "name": "Лежанка для кошек",
     "status": "В наличии",
-    "photoUrl": "https://example.com/photos/cat_bed_1.jpg",
+    "photoUrl": "https://www.anyzoo.ru/images/items/12376832-2.jpg",
     "description": "Мягкая и комфортная лежанка для кошек, идеально подходит для сна.",
     "price": "499.99"
   },
@@ -331,7 +331,7 @@
     "id": 43,
     "name": "Шампунь для собак",
     "status": "В наличии",
-    "photoUrl": "https://example.com/photos/dog_shampoo_1.jpg",
+    "photoUrl": "https://avatars.mds.yandex.net/i?id=596f9e2161606708acace968a0ea4496_l-4827783-images-thumbs&n=13",
     "description": "Шампунь для собак с натуральными компонентами, очищает и ухаживает за шерстью.",
     "price": "499.99"
   },
@@ -339,7 +339,7 @@
     "id": 44,
     "name": "Ошейник с GPS для собак",
     "status": "В наличии",
-    "photoUrl": "https://example.com/photos/dog_gps_collar_1.jpg",
+    "photoUrl": "https://st43.stpulscen.ru/images/product/483/614/853_original.jpg",
     "description": "Ошейник с GPS для собак, помогает отслеживать их местоположение в реальном времени.",
     "price": "499.99"
   },
@@ -347,7 +347,7 @@
     "id": 45,
     "name": "Игрушка для морских свинок",
     "status": "В наличии",
-    "photoUrl": "https://example.com/photos/guinea_pig_toy_1.jpg",
+    "photoUrl": "https://avatars.mds.yandex.net/i?id=9b64d753d9fa828258141f73c80266e2d2e05b15-4531654-images-thumbs&n=13",
     "description": "Игрушка для морских свинок, стимулирующая их активность и интерес.",
     "price": "499.99"
   },
@@ -355,7 +355,7 @@
     "id": 46,
     "name": "Тренировочная клетка для собак",
     "status": "В наличии",
-    "photoUrl": "https://example.com/photos/dog_training_cage_1.jpg",
+    "photoUrl": "https://avatars.mds.yandex.net/i?id=106fab676a5448b7f27d3d7ab8deeb13ca673d00-9181093-images-thumbs&n=13",
     "description": "Клетка для собак, удобная для тренировок и безопасного содержания.",
     "price": "499.99"
   },
@@ -363,15 +363,15 @@
     "id": 47,
     "name": "Пеня для кроликов",
     "status": "В наличии",
-    "photoUrl": "https://example.com/photos/rabbit_hutch_1.jpg",
-    "description": "Удобное и просторное жилище для кроликов, легко чистится и обслуживается.",
+    "photoUrl": "https://www.friendsarena.ru/compact/2_426717/Одноразовый-поролоновый-кролик.jpg",
+    "description": "Ароматная пена для мытья кроликов.",
     "price": "499.99"
   },
   {
     "id": 48,
     "name": "Корм для морских свинок",
     "status": "В наличии",
-    "photoUrl": "https://example.com/photos/guinea_pig_food_1.jpg",
+    "photoUrl": "https://avatars.mds.yandex.net/i?id=b0cbcfe2608af7a5ea9cd765be01ce0e95ff1e35-5241186-images-thumbs&n=13",
     "description": "Сбалансированный корм для морских свинок, содержит все необходимые витамины.",
     "price": "499.99"
   },
@@ -379,7 +379,7 @@
     "id": 49,
     "name": "Клетка для грызунов",
     "status": "В наличии",
-    "photoUrl": "https://example.com/photos/rodent_cage_1.jpg",
+    "photoUrl": "https://cdn1.ozone.ru/s3/multimedia-1-k/7049185328.jpg",
     "description": "Просторная клетка для грызунов с полками и игрушками для активного отдыха.",
     "price": "499.99"
   },
@@ -387,7 +387,7 @@
     "id": 50,
     "name": "Ремень для собак",
     "status": "В наличии",
-    "photoUrl": "https://example.com/photos/dog_leash_1.jpg",
+    "photoUrl": "https://avatars.mds.yandex.net/i?id=973cff7f7482844df07417211e2ef494_l-4956094-images-thumbs&n=13",
     "description": "Прочный ремень для собак, удобен для прогулок и тренировок.",
     "price": "499.99"
   }
